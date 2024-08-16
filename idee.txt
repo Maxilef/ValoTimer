@@ -1,0 +1,6 @@
+-il faudrait quand on passe sur les point du graphique sa affiche une pop up qui indique le score 
+
+-pouvoir naviguer dans le graphique zoomer dezoomer
+
+-affiche le record (plus petite valeur) 
+
