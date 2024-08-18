@@ -1,6 +1,12 @@
--il faudrait quand on passe sur les point du graphique sa affiche une pop up qui indique le score 
+-il faudrait quand on passe sur les point du graphique sa affiche une pop up qui indique le score (ok)
 
--pouvoir naviguer dans le graphique zoomer dezoomer
+-affiche le record (plus petite valeur) (ok)
 
--affiche le record (plus petite valeur) 
+-pouvoir naviguer dans le graphique zoomer dezoomer + pouvoir afficher progression depuis le debut ou les 20 dernier par exemple (2 bouton + - ?)
+
+-fix probleme difference entre les 2 crono prbl fomrmat ?
+
+
+
+
 
